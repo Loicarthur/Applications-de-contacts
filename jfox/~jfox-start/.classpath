@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="build/bin"/>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11/">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="/~jfox">
+		<attributes>
+			<attribute name="without_test_code" value="true"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/19.0.2/2a6be3269c3d637cefe1ec8fc25d9758b36017f2/javafx-fxml-19.0.2-sources.jar" kind="lib" path="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/19.0.2/26eaef75197fa036624f61fe19e1f3a90089c1d4/javafx-fxml-19.0.2-win.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/19.0.2/cb9bbcd589d01c5a2fe4f511ffef128fe8087eba/javafx-controls-19.0.2-sources.jar" kind="lib" path="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/19.0.2/9bc2468448c2c6e8e56f6023fc6a9b5edc310676/javafx-controls-19.0.2-win.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/19.0.2/cb9bbcd589d01c5a2fe4f511ffef128fe8087eba/javafx-controls-19.0.2-sources.jar" kind="lib" path="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/19.0.2/9e0c1c543bc9d4ce4dc92e18849e065b15d550bd/javafx-controls-19.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-swing/19.0.2/f595813c4283b957e7788eb2389476d41dfa118/javafx-swing-19.0.2-sources.jar" kind="lib" path="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-swing/19.0.2/e1398a4f13b1b47ea04923d45455593a263004c2/javafx-swing-19.0.2-win.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/19.0.2/28ece4875457ccb23999fea95c9c2196ab6b9d83/javafx-graphics-19.0.2-sources.jar" kind="lib" path="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/19.0.2/1115b4c69577f621e8ec0a52b925d267c1c1b4ec/javafx-graphics-19.0.2-win.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/19.0.2/28ece4875457ccb23999fea95c9c2196ab6b9d83/javafx-graphics-19.0.2-sources.jar" kind="lib" path="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/19.0.2/fef4194305f4cb3c50437a389f18ee2b3df31444/javafx-graphics-19.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/19.0.2/c044aa1a9e104a8c64d7c2e387e33583a0f08b69/javafx-base-19.0.2-sources.jar" kind="lib" path="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/19.0.2/2da75379d437ded92b6b39a43ec2ddbfdab85434/javafx-base-19.0.2-win.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/19.0.2/c044aa1a9e104a8c64d7c2e387e33583a0f08b69/javafx-base-19.0.2-sources.jar" kind="lib" path="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/19.0.2/8d02216cf976b6092874d442f075ea796c848af2/javafx-base-19.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/jakarta.annotation/jakarta.annotation-api/2.1.1/3beea3ed2e687d9bd8a78c00e18951fffccefe90/jakarta.annotation-api-2.1.1-sources.jar" kind="lib" path="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/jakarta.annotation/jakarta.annotation-api/2.1.1/48b9bda22b091b1f48b13af03fe36db3be6e1ae3/jakarta.annotation-api-2.1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/jakarta.inject/jakarta.inject-api/2.0.1/569d6c5f18d6ff83c82152d1870cf0faf830c594/jakarta.inject-api-2.0.1-sources.jar" kind="lib" path="C:/Users/Emmanuel/.gradle/caches/modules-2/files-2.1/jakarta.inject/jakarta.inject-api/2.0.1/4c28afe1991a941d7702fe1362c365f0a8641d1e/jakarta.inject-api-2.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+</classpath>
